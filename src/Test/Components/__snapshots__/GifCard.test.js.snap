@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifCard /> Debe mostrar correctamente el componente 1`] = `
+<div
+  className="col-12 col-md-6 col-lg-4 mt-2 animate__animated animate__fadeIn"
+  id="gifCard"
+>
+  <div
+    className="card text-center"
+  >
+    <img
+      alt="Imagen de prueba"
+      className="card-img-top"
+      src="https://localhost:8000"
+      style={
+        Object {
+          "height": "200px",
+          "width": "100%",
+        }
+      }
+    />
+    <div
+      className="card-body"
+      style={
+        Object {
+          "height": "7em",
+        }
+      }
+    >
+      <h5
+        className="card-title"
+        id="title"
+      >
+        Imagen de prueba
+      </h5>
+    </div>
+  </div>
+</div>
+`;
