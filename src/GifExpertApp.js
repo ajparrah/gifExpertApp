@@ -26,7 +26,7 @@ export const GifExpertApp = () => {
         </div>
     }
     return(
-        <div className="container">
+        <div className="container py-3">
             <div className="sticky-top bg-white pb-2">
                 <h2>GifExpertApp</h2>
                 <AddCategory categories={setCategories} />
